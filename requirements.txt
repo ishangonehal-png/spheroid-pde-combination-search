@@ -1,0 +1,8 @@
+# Pinned to the versions the published results were produced with.
+# scipy is load-bearing: the LSODA banded-Jacobian path and curve_fit
+# basin selection both shift results across major versions.
+numpy==2.4.6
+scipy==1.17.1
+pandas==3.0.5
+pyarrow==25.0.0
+matplotlib==3.11.1

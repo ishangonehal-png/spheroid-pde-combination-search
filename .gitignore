@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.cache/
+*.aux
+*.log
+*.out
+*.bbl
+*.blg
+_shard_*.csv
