@@ -1,7 +1,7 @@
 # Spheroid Reaction-Diffusion Evaluation of Combination Bayesian Optimization
 
 Code and data for **"PDE Reaction-Diffusion Spheroid Modeling for Probabilistic
-Chemotherapy Drug Search"** (SPIGM @ ICML 2026).
+Chemotherapy Drug Search"** (Simbiochem @ NeurIPS 2026).
 
 The question: combination drug-search methods are scored by a single number
 measured in a well-mixed monolayer assay. Does that number still rank
